@@ -7,10 +7,7 @@
 <!-- ABOUT Section Starts -->
 <h3 align="left">About:</h3>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-C71610?&style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:kiamboon@gmail.com)
-[![Telegram](https://img.shields.io/badge/-kiamboon-grey?&style=for-the-badge&logo=Telegram&logoColor=white&link=https://telegram.org/@kiamboon)](https://telegram.org/@kiamboon)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiamboon/)
-[![Credly](https://img.shields.io/badge/Credly-%20-orange?&style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/kiamboon/badges)
+
 
 <!-- Add your details -->
 > #### I am <b>Kiam Boon</b>, Computer Science graduated passionate about data analytics or data engineering, proficient in a range of modern technologies including Python Programming, Tableau, Power BI and Excel Pivot Table, who likes to take initiative and seek out new challenges.
