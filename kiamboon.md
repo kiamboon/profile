@@ -19,14 +19,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.python.org" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/JupyterNotebook.svg" alt="jupyternotebook" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/pandas.svg" alt="pandas" width="50" height="50"/> </a>
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/Scikit_learn.svg" alt="scikitlearn" width="50" height="50"/> </a>
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-<a href="https://www.tableau.com/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
-<a href="https://powerbi.microsoft.com/en/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/power-bi.svg" alt="powerbi" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/99305ec0d81f3cbce7dd71da2f7c3cb981fe1e79/images/python-original.svg" alt="python" width="40" height="40"/> </a>
+
 </p>
 
 ![Visitor Count](https://profile-counter.glitch.me/{Soh_Kiam_Boon}/count.svg)
