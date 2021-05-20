@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/99305ec0d81f3cbce7dd71da2f7c3cb981fe1e79/images/python-original.svg" alt="python" width="40" height="40"/> </a>
+
 
 </p>
 
