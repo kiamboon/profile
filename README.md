@@ -13,11 +13,11 @@
 <h3 align="left">About:</h3>
 
 [![Gmail](https://img.shields.io/badge/Gmail-C71610?style=flat&logo=gmail&logoColor=FFFFFF)](mailto:kiamboon@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=6591556340&text=Hi!)](https://api.whatsapp.com/send?phone=6591556340&text=Hi!)
-[![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat&logo=Telegram&logoColor=white)](https://t.me/kiamboon)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-4CA143?style=flat&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=6591556340&text=Hi!)](https://api.whatsapp.com/send?phone=6591556340&text=Hi!)
+[![Telegram](https://img.shields.io/badge/Telegram--_.svg?style=social&logo=Telegram&logoColor=white)](https://t.me/kiamboon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/kiamboon)
 [![Twitter](https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter)](https://twitter.com/kiamboon)
-[![Credly](https://img.shields.io/badge/Credly-%20-orange?style=flat&logo=credly)](https://www.credly.com/users/kiamboon/badges)
+[![Credly](https://img.shields.io/badge/Credly-orange?style=flat&logo=credly)](https://www.credly.com/users/kiamboon/badges)
   
 <!-- Add your details -->
 > #### I am <b>Kiam Boon</b>, InfoComm Technology graduated passionate about data analytics or data engineering, proficient in a range of modern technologies including Python Programming, Tableau, Power BI and Excel Pivot Table, who likes to take initiative and seek out new challenges.<br>
