@@ -2,18 +2,18 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200" height="200">
-  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+  <img align="left" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </p>
 
-
+  
 <!-- ABOUT Section Starts -->
 <h3 align="left">About:</h3>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-C71610?&style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:kiamboon@gmail.com)
-[![Telegram](https://img.shields.io/badge/-kiamboon-grey?&style=for-the-badge&logo=Telegram&logoColor=white&link=https://telegram.org/@kiamboon)](https://t.me/kiamboon)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiamboon/)
-[![Credly](https://img.shields.io/badge/Credly-%20-orange?&style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/kiamboon/badges)
-
+[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat&logo=gmail&logoColor=FFFFFF)](mailto:kiamboon@gmail.com)
+[![Telegram](https://img.shields.io/badge/-kiamboon-grey?style=flat&logo=Telegram&logoColor=white&link=https://telegram.org/@kiamboon)](https://t.me/kiamboon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/kiamboon/)
+[![Credly](https://img.shields.io/badge/Credly-%20-orange?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/kiamboon/badges)
+<a href="https://www.linkedin.com/in/kiamboon/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   
 <!-- Add your details -->
 > #### I am <b>Kiam Boon</b>, InfoComm Technology graduated passionate about data analytics or data engineering, proficient in a range of modern technologies including Python Programming, Tableau, Power BI and Excel Pivot Table, who likes to take initiative and seek out new challenges.<br>
