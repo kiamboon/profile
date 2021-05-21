@@ -59,7 +59,7 @@ A mini project using web scraping (BeautifulSoup) and Word Cloud. <br>
 <a href="https://github.com/kiamboon/Projects/blob/main/06.%20The%20Ugly%20Duckling.ipynb">Click here to view the project</a> <br><br>
 
 > ### <a id='5'></a><h2>05. <a href="https://github.com/kiamboon/Projects/blob/main/05.%20Taiwanese%20Real%20Estate%20Market%20Valuation.ipynb">Taiwanese Real Estate Market Valuation</h2></a>
-<img src = "https://raw.githubusercontent.com/kiamboon/profile/main/images/pro5.png">
+<img src = "https://raw.githubusercontent.com/kiamboon/profile/main/images/All%20Properties%20in%20Taipei.jpg">
 EDA + Machine Learning with Linear Regression and TensorFlow for Taiwanese real estate market. <br>
 <a href="https://github.com/kiamboon/Projects/blob/main/05.%20Taiwanese%20Real%20Estate%20Market%20Valuation.ipynb">Click here to view the project</a> <br><br>
 
