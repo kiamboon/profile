@@ -1,14 +1,14 @@
-<h1><p align="center">Hello there!<a href="https://github.com/kiamboon/profile/blob/main/README.md"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a></p>
+<h1><p align="center">Hello there! <a href="https://github.com/kiamboon/profile/blob/main/README.md"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a></p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200" height="200">
 </p>
 
-<img align="left" alt="GIF" height="60px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-
 ![Safe](https://img.shields.io/badge/Stay-Safe-red?logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTEwIDUxMCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTAgNTEwIiB3aWR0aD0iNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjxnPjxwYXRoIGQ9Im0xNzQuNjEgMzAwYy0yMC41OCAwLTQwLjU2IDYuOTUtNTYuNjkgMTkuNzJsLTExMC4wOSA4NS43OTd2MTA0LjQ4M2g1My41MjlsNzYuNDcxLTY1aDEyNi44MnYtMTQ1eiIgZmlsbD0iI2ZmZGRjZSIvPjwvZz48cGF0aCBkPSJtNTAyLjE3IDI4NC43MmMwIDguOTUtMy42IDE3Ljg5LTEwLjc4IDI0LjQ2bC0xNDguNTYgMTM1LjgyaC03OC4xOHYtODVoNjguMThsMTE0LjM0LTEwMC4yMWMxMi44Mi0xMS4yMyAzMi4wNi0xMC45MiA0NC41LjczIDcgNi41NSAxMC41IDE1LjM4IDEwLjUgMjQuMnoiIGZpbGw9IiNmZmNjYmQiLz48cGF0aCBkPSJtMzMyLjgzIDM0OS42M3YxMC4zN2gtNjguMTh2LTYwaDE4LjU1YzI3LjQxIDAgNDkuNjMgMjIuMjIgNDkuNjMgNDkuNjN6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTM5OS44IDc3LjN2OC4wMWMwIDIwLjY1LTguMDQgNDAuMDctMjIuNjQgNTQuNjdsLTExMi41MSAxMTIuNTF2LTIyNi42NmwzLjE4LTMuMTljMTQuNi0xNC42IDM0LjAyLTIyLjY0IDU0LjY3LTIyLjY0IDQyLjYyIDAgNzcuMyAzNC42OCA3Ny4zIDc3LjN6IiBmaWxsPSIjZDAwMDUwIi8+PHBhdGggZD0ibTI2NC42NSAyNS44M3YyMjYuNjZsLTExMi41MS0xMTIuNTFjLTE0LjYtMTQuNi0yMi42NC0zNC4wMi0yMi42NC01NC42N3YtOC4wMWMwLTQyLjYyIDM0LjY4LTc3LjMgNzcuMy03Ny4zIDIwLjY1IDAgNDAuMDYgOC4wNCA1NC42NiAyMi42NHoiIGZpbGw9IiNmZjRhNGEiLz48cGF0aCBkPSJtMjEyLjgzIDM2MC4xMnYzMGg1MS44MnYtMzB6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTI2NC42NSAzNjAuMTJ2MzBoMzYuMTRsMzIuMDQtMzB6IiBmaWxsPSIjZmZiZGE5Ii8+PC9nPjwvc3ZnPg==)
 
+<img align="left" alt="GIF" height="60px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+  
 <!-- ABOUT Section Starts -->
 <h3 align="left">About:</h3>
 
@@ -30,9 +30,10 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/JupyterNotebook.svg" alt="jupyternotebook" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/pandas.svg" alt="pandas" width="50" height="50"/> </a>
-<a href="https://plotly.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/plotly.png" alt="plotly" width="75" height="50"/> </a>
+<a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/a81559f4829aa30d72a5f055faaea02c4d04ff0d/images/NumPy.svg" alt="numpy" width="70" height="50"/> </a>
 <a href="https://matplotlib.org/" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/Matplotlib.png" alt="matplotlib" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/539f95d9553a5d9a8fefd8f40f939ad5e1e8284b/images/Seaborn.svg" alt="seaborn" width="50" height="50"/> </a>
+<a href="https://plotly.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/plotly.png" alt="plotly" width="75" height="45"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/Scikit_learn.svg" alt="scikitlearn" width="50" height="50"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/BeautifulSoup.png" alt="beautifulsoup" width="75" height="50"/> </a>
