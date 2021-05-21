@@ -1,19 +1,22 @@
-<h1><p align="center">Hello, I'm Kiam Boon <a href="https://github.com/kiamboon/profile/blob/main/README.md"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a></p>
+<h1><p align="center">Hello there!<a href="https://github.com/kiamboon/profile/blob/main/README.md"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a></p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200" height="200">
   <img align="left" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </p>
 
-  
+![Safe](https://img.shields.io/badge/Stay-Safe-red?logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTEwIDUxMCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTAgNTEwIiB3aWR0aD0iNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjxnPjxwYXRoIGQ9Im0xNzQuNjEgMzAwYy0yMC41OCAwLTQwLjU2IDYuOTUtNTYuNjkgMTkuNzJsLTExMC4wOSA4NS43OTd2MTA0LjQ4M2g1My41MjlsNzYuNDcxLTY1aDEyNi44MnYtMTQ1eiIgZmlsbD0iI2ZmZGRjZSIvPjwvZz48cGF0aCBkPSJtNTAyLjE3IDI4NC43MmMwIDguOTUtMy42IDE3Ljg5LTEwLjc4IDI0LjQ2bC0xNDguNTYgMTM1LjgyaC03OC4xOHYtODVoNjguMThsMTE0LjM0LTEwMC4yMWMxMi44Mi0xMS4yMyAzMi4wNi0xMC45MiA0NC41LjczIDcgNi41NSAxMC41IDE1LjM4IDEwLjUgMjQuMnoiIGZpbGw9IiNmZmNjYmQiLz48cGF0aCBkPSJtMzMyLjgzIDM0OS42M3YxMC4zN2gtNjguMTh2LTYwaDE4LjU1YzI3LjQxIDAgNDkuNjMgMjIuMjIgNDkuNjMgNDkuNjN6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTM5OS44IDc3LjN2OC4wMWMwIDIwLjY1LTguMDQgNDAuMDctMjIuNjQgNTQuNjdsLTExMi41MSAxMTIuNTF2LTIyNi42NmwzLjE4LTMuMTljMTQuNi0xNC42IDM0LjAyLTIyLjY0IDU0LjY3LTIyLjY0IDQyLjYyIDAgNzcuMyAzNC42OCA3Ny4zIDc3LjN6IiBmaWxsPSIjZDAwMDUwIi8+PHBhdGggZD0ibTI2NC42NSAyNS44M3YyMjYuNjZsLTExMi41MS0xMTIuNTFjLTE0LjYtMTQuNi0yMi42NC0zNC4wMi0yMi42NC01NC42N3YtOC4wMWMwLTQyLjYyIDM0LjY4LTc3LjMgNzcuMy03Ny4zIDIwLjY1IDAgNDAuMDYgOC4wNCA1NC42NiAyMi42NHoiIGZpbGw9IiNmZjRhNGEiLz48cGF0aCBkPSJtMjEyLjgzIDM2MC4xMnYzMGg1MS44MnYtMzB6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTI2NC42NSAzNjAuMTJ2MzBoMzYuMTRsMzIuMDQtMzB6IiBmaWxsPSIjZmZiZGE5Ii8+PC9nPjwvc3ZnPg==)
+
+
 <!-- ABOUT Section Starts -->
 <h3 align="left">About:</h3>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat&logo=gmail&logoColor=FFFFFF)](mailto:kiamboon@gmail.com)
-[![Telegram](https://img.shields.io/badge/-kiamboon-grey?style=flat&logo=Telegram&logoColor=white&link=https://telegram.org/@kiamboon)](https://t.me/kiamboon)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/kiamboon/)
-[![Credly](https://img.shields.io/badge/Credly-%20-orange?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/kiamboon/badges)
-<a href="https://www.linkedin.com/in/kiamboon/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+[![Gmail](https://img.shields.io/badge/Gmail-C71610?style=flat&logo=gmail&logoColor=FFFFFF)](mailto:kiamboon@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=6591556340&text=Hi!)](https://api.whatsapp.com/send?phone=6591556340&text=Hi!)
+[![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat&logo=Telegram&logoColor=white)](https://t.me/kiamboon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/kiamboon)
+[![Twitter](https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter)](https://twitter.com/kiamboon)
+[![Credly](https://img.shields.io/badge/Credly-%20-orange?style=flat&logo=credly)](https://www.credly.com/users/kiamboon/badges)
   
 <!-- Add your details -->
 > #### I am <b>Kiam Boon</b>, InfoComm Technology graduated passionate about data analytics or data engineering, proficient in a range of modern technologies including Python Programming, Tableau, Power BI and Excel Pivot Table, who likes to take initiative and seek out new challenges.<br>
