@@ -1,7 +1,8 @@
-<h1><p align="center">Hello, I'm Kiam Boon! <a href="https://github.com/kiamboon/profile/blob/main/README.md"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a></p>
+<h1><p align="center">Hello, I'm Kiam Boon <a href="https://github.com/kiamboon/profile/blob/main/README.md"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a></p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200" height="200">
+  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </p>
 
 
@@ -9,12 +10,13 @@
 <h3 align="left">About:</h3>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-C71610?&style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:kiamboon@gmail.com)
-[![Telegram](https://img.shields.io/badge/-kiamboon-grey?&style=for-the-badge&logo=Telegram&logoColor=white&link=https://telegram.org/@kiamboon)](https://telegram.org/@kiamboon)
+[![Telegram](https://img.shields.io/badge/-kiamboon-grey?&style=for-the-badge&logo=Telegram&logoColor=white&link=https://telegram.org/@kiamboon)](https://t.me/kiamboon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiamboon/)
 [![Credly](https://img.shields.io/badge/Credly-%20-orange?&style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/kiamboon/badges)
 
+  
 <!-- Add your details -->
-> #### I am <b>Kiam Boon</b>, Computer Science graduated passionate about data analytics or data engineering, proficient in a range of modern technologies including Python Programming, Tableau, Power BI and Excel Pivot Table, who likes to take initiative and seek out new challenges.<br>
+> #### I am <b>Kiam Boon</b>, InfoComm Technology graduated passionate about data analytics or data engineering, proficient in a range of modern technologies including Python Programming, Tableau, Power BI and Excel Pivot Table, who likes to take initiative and seek out new challenges.<br>
 
 <br>
 
