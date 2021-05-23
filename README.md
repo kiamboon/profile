@@ -39,7 +39,8 @@
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/BeautifulSoup.png" alt="beautifulsoup" width="75" height="50"/> </a>
 <a href="https://www.tableau.com/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
-<a href="https://powerbi.microsoft.com/en/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/power-bi.svg" alt="powerbi" width="40" height="40"/> </a><br>
+<a href="https://powerbi.microsoft.com/en/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/power-bi.svg" alt="powerbi" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-sg/microsoft-365/excel" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/Excel%20Pivot%20Table.png" alt="excelpivottable" width="55" height="35"/> </a><br>
 
 <br>
 
