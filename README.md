@@ -41,7 +41,7 @@
 <a href="https://github.com/nltk/nltk" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/NLTK.png" alt="nltk" width="45" height="50"/> </a> 
 <a href="https://www.tableau.com/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
 <a href="https://powerbi.microsoft.com/en/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/power-bi.svg" alt="powerbi" width="40" height="40"/> </a>
-<a href="https://www.ibm.com/products/cognos-analytics" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/Cognos.png" alt="cognos" width="40" height="40"/> </a>
+<a href="https://www.ibm.com/products/cognos-analytics" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/Cognos.png" alt="cognos" width="60" height="50"/> </a>
 <a href="https://www.microsoft.com/en-sg/microsoft-365/excel" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/Excel%20Pivot%20Table.png" alt="excelpivottable" width="55" height="35"/> </a><br>
 
 <br>
