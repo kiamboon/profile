@@ -49,6 +49,7 @@
 <!-- PROJECTS Section Starts -->
 <h3 align="left">Project:</h3>
 
+[07. IBM Data Analyst Capstone Project - Trend for Emerging Technology & Skills](#7) <br>
 [06. The Ugly Duckling](#6) <br>
 [05. Taiwanese Real Estate Market Valuation](#5) <br>
 [04. A Simple Trading Algorithm of Analysis for Bitcoin](#4) <br>
@@ -57,7 +58,14 @@
 [01. "Face Recognition" for Iris Flowers](#1) <br>
 <br>
 
+---
+> ### <a id='7'></a><h2>07. <a href="http://drive.google.com/file/d/1a5cwIdX9eVdo2a8m8ev2GOyBiZPO6Xj3/preview">IBM Data Analyst Capstone Project: Trend for Emerging Technology & Skills</h2></a>
+<img src = "https://raw.githubusercontent.com/kiamboon/profile/main/images/Ppt%20Slides.png" width="600" height="300">
+An individual Capstone project - One of the courses for IBM Data Analyst Professional Certificate <br>
+<a href="http://drive.google.com/file/d/1a5cwIdX9eVdo2a8m8ev2GOyBiZPO6Xj3/preview">Click here to view the project</a> <br>
+<a href="https://dataplatform.cloud.ibm.com/dashboards/decb3702-894a-4450-8d2e-af2d57faf479/view/6420a12e1098039753d1bde407912f027a30770be3bbd15586877b4908667297a96c13c2c8291e5adf130766f6ec1751cd">Click here to view the coursework on IBM Cognos Analytics</a> <br><br>
 
+---
 > ### <a id='6'></a><h2>06. <a href="https://github.com/kiamboon/Projects/blob/main/06.%20The%20Ugly%20Duckling.ipynb">The Ugly Duckling</h2></a>
 <img src = "https://raw.githubusercontent.com/kiamboon/profile/main/images/pro6.png" width="230" height="300">
 A mini project using web scraping (BeautifulSoup) and Word Cloud. <br>
