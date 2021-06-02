@@ -31,8 +31,8 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/99305ec0d81f3cbce7dd71da2f7c3cb981fe1e79/images/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/JupyterNotebook.svg" alt="jupyternotebook" width="40" height="40"/> </a>
-<a href="https://colab.research.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/Google%20Colab.png" alt="googlecolab" width="60" height="25"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/pandas.svg" alt="pandas" width="50" height="50"/> </a>
+<a href="https://colab.research.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/Colab.png" alt="colab" width="50" height="25"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/pandas.svg" alt="pandas" width="55" height="55"/> </a>
 <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/a81559f4829aa30d72a5f055faaea02c4d04ff0d/images/NumPy.svg" alt="numpy" width="70" height="50"/> </a>
 <a href="https://matplotlib.org/" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/Matplotlib.png" alt="matplotlib" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/539f95d9553a5d9a8fefd8f40f939ad5e1e8284b/images/Seaborn.svg" alt="seaborn" width="50" height="50"/> </a>
