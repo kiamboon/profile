@@ -31,6 +31,7 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/99305ec0d81f3cbce7dd71da2f7c3cb981fe1e79/images/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/JupyterNotebook.svg" alt="jupyternotebook" width="40" height="40"/> </a>
+<a href="https://colab.research.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/Google%20Colab.png" alt="googlecolab" width="60" height="25"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/pandas.svg" alt="pandas" width="50" height="50"/> </a>
 <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/a81559f4829aa30d72a5f055faaea02c4d04ff0d/images/NumPy.svg" alt="numpy" width="70" height="50"/> </a>
 <a href="https://matplotlib.org/" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/Matplotlib.png" alt="matplotlib" width="40" height="40"/> </a>
@@ -39,7 +40,7 @@
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/Scikit_learn.svg" alt="scikitlearn" width="50" height="50"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/BeautifulSoup.png" alt="beautifulsoup" width="75" height="50"/> </a>
-<a href="https://github.com/nltk/nltk" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/NLTK.png" alt="nltk" width="45" height="50"/> </a> 
+<a href="https://github.com/nltk/nltk" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/NLTK.png" alt="nltk" width="40" height="45"/> </a> 
 <a href="https://www.tableau.com/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
 <a href="https://powerbi.microsoft.com/en/" target="_blank"> <img src="https://github.com/kiamboon/profile/blob/main/images/power-bi.svg" alt="powerbi" width="40" height="40"/> </a>
 <a href="https://www.ibm.com/products/cognos-analytics" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/Cognos.png" alt="cognos" width="60" height="50"/> </a>
