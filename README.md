@@ -49,9 +49,9 @@
   
 <h3 align="left">Specialization Certificates:</h3>
 
-i. <a href="https://github.com/kiamboon/IBM-Data-Analyst-Professional-Certificate">IBM Data Analyst Professional Certificate</a> [![Status](https://img.shields.io/badge/Status:-Completed%20on%2026%20May%202021-brightgreen?style=plastic)](https://github.com/kiamboon/IBM-Data-Analyst-Professional-Certificate)<br>
-ii. <a href="https://github.com/kiamboon/Google-IT-Automation-with-Python-Professional-Certificate">Google AI Automation Professional Certificate</a> [![Status](https://img.shields.io/badge/Status%3A-In%20progress-tomato?style=plastic)](https://github.com/kiamboon/Google-IT-Automation-with-Python-Professional-Certificate)<br>
-iii. Digital BCG Academy Certification in Business & Data Analytics</a> [![Status](https://img.shields.io/badge/Status%3A-In%20progress-tomato?style=plastic)](https://rise.bcg.com/)<br>
+i. <a href="https://github.com/kiamboon/IBM-Data-Analyst-Professional-Certificate">IBM Data Analyst Professional Certificate</a> [![Status](https://img.shields.io/badge/Status-Completed%20on%2026%20May%202021-brightgreen?style=plastic)](https://github.com/kiamboon/IBM-Data-Analyst-Professional-Certificate)<br>
+ii. <a href="https://github.com/kiamboon/Google-IT-Automation-with-Python-Professional-Certificate">Google AI Automation Professional Certificate</a> [![Status](https://img.shields.io/badge/Status-In%20progress-tomato?style=plastic)](https://github.com/kiamboon/Google-IT-Automation-with-Python-Professional-Certificate)<br>
+iii. <a href="https://github.com/kiamboon/RISE-by-BCG">Digital BCG Academy Certification in Business & Data Analytics</a> [![Status](https://img.shields.io/badge/Status-In%20progress-tomato?style=plastic)](https://github.com/kiamboon/RISE-by-BCG)<br>
 
 
 
