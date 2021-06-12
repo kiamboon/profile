@@ -46,6 +46,13 @@
 <a href="https://www.microsoft.com/en-sg/microsoft-365/excel" target="_blank"> <img src="https://raw.githubusercontent.com/kiamboon/profile/main/images/Excel%20PivotTable.png" alt="excelpivottable" width="50" height="35"/> </a><br>
 
 <br>
+  
+<h3 align="left">Specialization Certificates:</h3>
+i. <a href="https://github.com/kiamboon/IBM-Data-Analyst-Professional-Certificate">IBM Data Analyst Professional Certificate</a> - Completed on 26 May 2021 <br>
+ii. <a href="https://github.com/kiamboon/Google-IT-Automation-with-Python-Professional-Certificate">Google AI Automation Professional Certificate</a> - In progress <br>
+iii. Digital BCG Academy Certification in Business & Data Analytics</a> - In progress <br>
+  
+<br>
 
 <!-- PROJECTS Section Starts -->
 <h3 align="left">Project:</h3>
