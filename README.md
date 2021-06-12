@@ -17,6 +17,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-4CA143?style=flat&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=6591556340&text=Hi!)](https://api.whatsapp.com/send?phone=6591556340&text=Hi!)
 [![Telegram](https://img.shields.io/badge/Telegram--_.svg?style=social&logo=Telegram&logoColor=white)](https://t.me/kiamboon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/kiamboon)
+[![Instagram](https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram)](https://www.instagram.com/kilobytes/)
 [![Twitter](https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter)](https://twitter.com/kiamboon)
 [![Credly](https://img.shields.io/badge/Credly-orange?style=flat&logo=credly)](https://www.credly.com/users/kiamboon/badges?sort=-state_updated_at&page=1)
   
