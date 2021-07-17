@@ -75,8 +75,9 @@ iii. <a href="https://github.com/kiamboon/RISE-by-BCG">Digital BCG Academy Certi
 ---
 > ### <a id='8'></a><h2>08. <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%202.ipynb">Cookie Cats</h2></a>
 <img src = "https://github.com/kiamboon/RISE-by-BCG/blob/main/image/mini_pro_2.png">
-A mini group project by Group 5 in RISE by Digital BCG Academy <br>
+A mini group project by Group 5 in <a href="https://rise.bcg.com/">RISE by BCG</a> - Exploratory Data Analysis (EDA) + statistical A/B Test using Python's Pandas and Scipy<br>
 <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%202.ipynb">Click here to view the project</a> <br><br>
+Credit: <a href="https://rise.bcg.com/business-data-analytics/">RISE by Digital BCG Academy</a> <br>
   
 ---
 > ### <a id='7'></a><h2>07. <a href="http://drive.google.com/file/d/1a5cwIdX9eVdo2a8m8ev2GOyBiZPO6Xj3/preview">IBM Data Analyst Capstone Project: Trend for Emerging Technology & Skills</h2></a>
@@ -84,6 +85,7 @@ A mini group project by Group 5 in RISE by Digital BCG Academy <br>
 An individual Capstone project - One of the courses for IBM Data Analyst Professional Certificate <br>
 <a href="http://drive.google.com/file/d/1a5cwIdX9eVdo2a8m8ev2GOyBiZPO6Xj3/preview">Click here to view the project</a> <br>
 <a href="https://dataplatform.cloud.ibm.com/dashboards/decb3702-894a-4450-8d2e-af2d57faf479/view/6420a12e1098039753d1bde407912f027a30770be3bbd15586877b4908667297a96c13c2c8291e5adf130766f6ec1751cd">Click here to view the coursework on IBM Cognos Analytics</a> <br><br>
+Credit: <a href="https://www.coursera.org/professional-certificates/ibm-data-analyst#courses">Coursera - IBM Data Analyst Professional Certificate</a> <br><br>
 
 ---
 > ### <a id='6'></a><h2>06. <a href="https://github.com/kiamboon/Projects/blob/main/06.%20The%20Ugly%20Duckling.ipynb">The Ugly Duckling</h2></a>
