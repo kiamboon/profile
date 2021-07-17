@@ -75,7 +75,7 @@ iii. <a href="https://github.com/kiamboon/RISE-by-BCG">Digital BCG Academy Certi
 ---
 > ### <a id='8'></a><h2>08. <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%202.ipynb">Cookie Cats</h2></a>
 <img src = "https://github.com/kiamboon/RISE-by-BCG/blob/main/image/mini_pro_2.png">
-A mini group project by Group 5 in <a href="https://rise.bcg.com/">RISE by BCG</a> - Exploratory Data Analysis (EDA) + statistical A/B Test using Python's Pandas and Scipy<br>
+A mini group project by Group 5 (Business & Data Analytics Track, BDA01) in <a href="https://rise.bcg.com/">RISE by BCG</a> - Exploratory Data Analysis (EDA) + statistical A/B Test using Python's Pandas and Scipy<br>
 <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%202.ipynb">Click here to view the project</a> <br><br>
 Credit: <a href="https://rise.bcg.com/business-data-analytics/">RISE by Digital BCG Academy</a> <br>
   
