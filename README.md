@@ -62,6 +62,7 @@ iii. <a href="https://github.com/kiamboon/RISE-by-BCG">Digital BCG Academy Certi
 <!-- PROJECTS Section Starts -->
 <h3 align="left">Project:</h3>
 
+[08. Mini Project II - Cookie Cats](#8) <br>
 [07. IBM Data Analyst Capstone Project - Trend for Emerging Technology & Skills](#7) <br>
 [06. The Ugly Duckling](#6) <br>
 [05. Taiwanese Real Estate Market Valuation](#5) <br>
@@ -71,6 +72,12 @@ iii. <a href="https://github.com/kiamboon/RISE-by-BCG">Digital BCG Academy Certi
 [01. "Face Recognition" for Iris Flowers](#1) <br>
 <br>
 
+---
+> ### <a id='8'></a><h2>08. <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%202.ipynb">Cookie Cats</h2></a>
+<img src = "https://github.com/kiamboon/RISE-by-BCG/blob/main/image/mini_pro_2.png">
+A mini group project by Group 5 in RISE by Digital BCG Academy <br>
+<a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%202.ipynb">Click here to view the project</a> <br><br>
+  
 ---
 > ### <a id='7'></a><h2>07. <a href="http://drive.google.com/file/d/1a5cwIdX9eVdo2a8m8ev2GOyBiZPO6Xj3/preview">IBM Data Analyst Capstone Project: Trend for Emerging Technology & Skills</h2></a>
 <img src = "https://raw.githubusercontent.com/kiamboon/profile/main/images/Ppt%20Slides.png" width="600" height="300">
