@@ -77,7 +77,7 @@ iv. <a href="https://github.com/kiamboon/Google-IT-Automation-with-Python-Profes
 
 ---
 > ### <a id='10'></a><h2>10. <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%202.ipynb">Telco Churn Prediction</h2></a>
-<img src = "https://github.com/kiamboon/RISE-by-BCG/blob/main/image/mini_pro_2.png">
+<img src = "https://github.com/kiamboon/RISE-by-BCG/blob/main/image/mini%20pro%203.png">
 A mini group project by Group 5 (Business & Data Analytics Track, BDA01) in <a href="https://rise.bcg.com/">RISE by BCG</a> - Predict churners one month in advance and identified key churn drivers to lower churn rate and increase revenue using Python's Pandas and Scikit-Learn<br>
 <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%203.ipynb">Click here to view the project</a> <br><br>
 Credit: <a href="https://rise.bcg.com/business-data-analytics/">RISE by Digital BCG Academy</a> <br>
