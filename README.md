@@ -143,4 +143,4 @@ An EDA with classification task like a "face recognition" to the Iris flowers wi
 
 <!-- PROJECTS Section Ends -->
 ---
-![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
+![Dino](https://github.com/kiamboon/Profile/blob/main/images/dino.gif)
