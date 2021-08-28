@@ -63,6 +63,7 @@ iv. <a href="https://github.com/kiamboon/Google-IT-Automation-with-Python-Profes
 <!-- PROJECTS Section Starts -->
 <h3 align="left">Project:</h3>
 
+[10. Mini Project III - Telco Churn Prediction](#10) <br>
 [09. Mini Project II - Cookie Cats](#9) <br>
 [08. Mini Project I - Visualization and Dashboards](#8) <br>
 [07. IBM Data Analyst Capstone Project - Trend for Emerging Technology & Skills](#7) <br>
@@ -74,6 +75,13 @@ iv. <a href="https://github.com/kiamboon/Google-IT-Automation-with-Python-Profes
 [01. "Face Recognition" for Iris Flowers](#1) <br>
 <br>
 
+---
+> ### <a id='10'></a><h2>09. <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%202.ipynb">Telco Churn Prediction</h2></a>
+<img src = "https://github.com/kiamboon/RISE-by-BCG/blob/main/image/mini_pro_2.png">
+A mini group project by Group 5 (Business & Data Analytics Track, BDA01) in <a href="https://rise.bcg.com/">RISE by BCG</a> - Predict churners one month in advance and identified key churn drivers to lower churn rate and increase revenue using Python's Pandas and Scikit-Learn<br>
+<a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%203.ipynb">Click here to view the project</a> <br><br>
+Credit: <a href="https://rise.bcg.com/business-data-analytics/">RISE by Digital BCG Academy</a> <br>
+  
 ---
 > ### <a id='9'></a><h2>09. <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%202.ipynb">Cookie Cats</h2></a>
 <img src = "https://github.com/kiamboon/RISE-by-BCG/blob/main/image/mini_pro_2.png">
