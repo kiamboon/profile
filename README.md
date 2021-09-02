@@ -143,4 +143,6 @@ An EDA with classification task like a "face recognition" to the Iris flowers wi
 
 <!-- PROJECTS Section Ends -->
 ---
-![Dino](https://github.com/kiamboon/Profile/blob/main/images/dino.gif)
+
+<p align="center">
+  <img src="https://github.com/kiamboon/Profile/blob/main/images/dino.gif" alt="Coder GIF" width="850" height="250"></p>
