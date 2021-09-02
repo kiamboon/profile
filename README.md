@@ -90,8 +90,10 @@ Credit: <a href="https://rise.bcg.com/business-data-analytics/">RISE by Digital 
 Credit: <a href="https://rise.bcg.com/business-data-analytics/">RISE by Digital BCG Academy</a> <br>
   
 ---
-> ### <a id='8'></a><h2>08. <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%201%20(Power%20BI%20Version).pbix">Visualization and Dashboards</h2></a>
-<img src = "https://github.com/kiamboon/RISE-by-BCG/blob/main/image/mini%20pro%201.png" width="900" height="300">
+
+> ### <a id='8'></a><h2>08. <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%201%20(Power%20BI%20Version).pbix">Visualization and Dashboards </h2></a>
+
+<img src = "https://github.com/kiamboon/RISE-by-BCG/blob/main/image/mini%20pro%201.png" width="900" height="300" />
 <a href="https://rise.bcg.com/">BCG RISE</a> Project I - Visibility in operational for Automotive Seating Manufacturer. Built an analytics dashboard using Power BI to track plant's major KPIs operational process. Better visibility of the seat manufacturing process has reduced operating costs and increasing profits. Also done the same project in Tableau.<br>
 <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%201%20(Power%20BI%20Version).pbix">Click here to view the project in Power BI</a> <br>
 <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%201%20(Tableau%20Version).twb">Click here to view the project in Tableau</a> <br><br>
