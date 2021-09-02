@@ -63,9 +63,9 @@ iv. <a href="https://github.com/kiamboon/Google-IT-Automation-with-Python-Profes
 <!-- PROJECTS Section Starts -->
 <h3 align="left">Project:</h3>
 
-[10. Mini Project III - Telco Churn Prediction](#10) <br>
-[09. Mini Project II - Cookie Cats](#9) <br>
-[08. Mini Project I - Visualization and Dashboards](#8) <br>
+[10. Project III - Telco Churn Prediction](#10) <br>
+[09. Project II - Cookie Cats](#9) <br>
+[08. Project I - Visualization and Dashboards](#8) <br>
 [07. IBM Data Analyst Capstone Project - Trend for Emerging Technology & Skills](#7) <br>
 [06. The Ugly Duckling](#6) <br>
 [05. Taiwanese Real Estate Market Valuation](#5) <br>
@@ -78,23 +78,21 @@ iv. <a href="https://github.com/kiamboon/Google-IT-Automation-with-Python-Profes
 ---
 > ### <a id='10'></a><h2>10. <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%202.ipynb">Telco Churn Prediction</h2></a>
 <img src = "https://github.com/kiamboon/RISE-by-BCG/blob/main/image/mini%20pro%203.png" width="800" height="300">
-A mini group project by Group 5 (Business & Data Analytics Track, BDA01) in <a href="https://rise.bcg.com/">RISE by BCG</a> - Predict churners one month in advance and identified key churn drivers to lower churn rate and increase revenue using Python's Pandas and Scikit-Learn<br>
+<a href="https://rise.bcg.com/">BCG RISE</a> Project III - Built a Random Forest Classification model to predict churners one month in advance and identified key churn drivers to lower churn rate and increase revenue using Python's Pandas and Scikit-Learn.<br>
 <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%203.ipynb">Click here to view the project</a> <br><br>
 Credit: <a href="https://rise.bcg.com/business-data-analytics/">RISE by Digital BCG Academy</a> <br>
   
 ---
 > ### <a id='9'></a><h2>09. <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%202.ipynb">Cookie Cats</h2></a>
 <img src = "https://github.com/kiamboon/RISE-by-BCG/blob/main/image/mini_pro_2.png" width="800" height="300">
-A mini group project by Group 5 (Business & Data Analytics Track, BDA01) in <a href="https://rise.bcg.com/">RISE by BCG</a> - Exploratory Data Analysis (EDA) + statistical A/B Test using Python's Pandas and Scipy<br>
+<a href="https://rise.bcg.com/">BCG RISE</a> Project II - Perform EDA with statistical A/B Test using Python's Pandas and SciPy. Tested CEO’s hypothesis and analyzed that moving the first gate from level 30 to 40 did not increase retention rate and number of game rounds.<br>
 <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%202.ipynb">Click here to view the project</a> <br><br>
 Credit: <a href="https://rise.bcg.com/business-data-analytics/">RISE by Digital BCG Academy</a> <br>
   
 ---
 > ### <a id='8'></a><h2>08. <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%201%20(Power%20BI%20Version).pbix">Visualization and Dashboards</h2></a>
-
 <img src = "https://github.com/kiamboon/RISE-by-BCG/blob/main/image/mini%20pro%201.png" width="900" height="300">
-
-A mini group project by Group 5 (BDA01) in <a href="https://rise.bcg.com/">RISE by BCG</a> - An analytics dashboard using Power BI to track plant's major KPIs operational process. I also done a similar project using Tableau.<br>
+<a href="https://rise.bcg.com/">BCG RISE</a> Project I - Visibility in operational for Automotive Seating Manufacturer. Built an analytics dashboard using Power BI to track plant's major KPIs operational process. Better visibility of the seat manufacturing process has reduced operating costs and increasing profits. Also done the same project in Tableau.<br>
 <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%201%20(Power%20BI%20Version).pbix">Click here to view the project in Power BI</a> <br>
 <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%201%20(Tableau%20Version).twb">Click here to view the project in Tableau</a> <br><br>
 Credit: <a href="https://rise.bcg.com/business-data-analytics/">RISE by Digital BCG Academy</a> <br>
