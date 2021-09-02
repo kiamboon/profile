@@ -91,7 +91,9 @@ Credit: <a href="https://rise.bcg.com/business-data-analytics/">RISE by Digital 
   
 ---
 > ### <a id='8'></a><h2>08. <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%201%20(Power%20BI%20Version).pbix">Visualization and Dashboards</h2></a>
+
 <img src = "https://github.com/kiamboon/RISE-by-BCG/blob/main/image/mini%20pro%201.png" width="900" height="300">
+
 A mini group project by Group 5 (BDA01) in <a href="https://rise.bcg.com/">RISE by BCG</a> - An analytics dashboard using Power BI to track plant's major KPIs operational process. I also done a similar project using Tableau.<br>
 <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%201%20(Power%20BI%20Version).pbix">Click here to view the project in Power BI</a> <br>
 <a href="https://github.com/kiamboon/RISE-by-BCG/blob/main/Projects/Mini%20Project%201%20(Tableau%20Version).twb">Click here to view the project in Tableau</a> <br><br>
