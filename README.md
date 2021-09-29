@@ -63,7 +63,7 @@ v. <a href="https://github.com/kiamboon/Google-IT-Automation-with-Python-Profess
 <br>
 
 <!-- PROJECTS Section Starts -->
-<h3 align="left">Project:</h3>
+<h3 align="left">Projects:</h3>
 
 [10. Project III - Telco Churn Prediction](#10) <br>
 [09. Project II - Cookie Cats](#9) <br>
